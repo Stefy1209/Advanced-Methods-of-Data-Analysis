@@ -1,0 +1,7 @@
+variant,m,misassigned,uncertain (<0.6),confident (>=0.8)
+zscore,2.0,49,29,3
+minmax,2.0,41,22,3
+log1p_zscore,2.0,41,24,1
+zscore,1.5,48,14,16
+minmax,1.5,41,12,16
+log1p_zscore,1.5,41,12,7

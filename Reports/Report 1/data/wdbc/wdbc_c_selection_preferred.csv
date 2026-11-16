@@ -1,0 +1,4 @@
+variant,PC,NPC,PE,NPE,XB,FS
+zscore,2,2,2,2,2,10
+minmax,2,2,2,2,2,10
+log1p_zscore,2,2,2,2,2,10

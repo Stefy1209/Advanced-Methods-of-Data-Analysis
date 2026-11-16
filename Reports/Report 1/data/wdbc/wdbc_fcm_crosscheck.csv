@@ -1,0 +1,11 @@
+,value
+iterations (ours),27
+iterations (skfuzzy),27
+converged (ours),True
+max |U_ours - U_skfuzzy|,2.220446049250313e-16
+max |V_ours - V_skfuzzy|,2.220446049250313e-16
+J (ours),8021.475265733914
+J (skfuzzy),8021.475265733914
+PC (ours),0.6558936517891737
+PC (skfuzzy),0.6558936517891737
+J never increases (ours),True
