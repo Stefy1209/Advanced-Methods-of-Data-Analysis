@@ -1,0 +1,6 @@
+set,n columns,complete rows,share of all rows,columns
+planet_basic,3,6031,0.932,"pl_orbper, pl_rade, pl_bmasse"
+planet_orbit,5,5182,0.801,"pl_orbper, pl_orbsmax, pl_orbeccen, pl_rade, pl_bmasse"
+planet_thermal,5,5735,0.886,"pl_orbper, pl_rade, pl_bmasse, pl_eqt, pl_insol"
+planet_star,7,5646,0.873,"pl_orbper, pl_rade, pl_bmasse, st_teff, st_rad, st_mass, st_met"
+all_physical,15,4521,0.699,"pl_orbper, pl_orbsmax, pl_rade, pl_bmasse, pl_dens, pl_orbeccen, pl_eqt, pl_insol, st_teff, st_rad, st_mass, st_met, st_logg, st_lum, st_age"

@@ -1,0 +1,7 @@
+,planet_basic,planet_star
+rows,6031.0,5646.0
+distinct hosts,4474.0,4148.0
+hosts with >1 planet in table,1042.0,1002.0
+rows whose host has >1 planet in table,2599.0,2500.0
+share of rows,0.431,0.443
+max planets per host,8.0,8.0

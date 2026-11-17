@@ -1,0 +1,12 @@
+column,description,non_missing,values <= 0,min,max
+pl_orbper,Orbital Period [days],6108,0,0.090706293,402000000.0
+pl_orbsmax,Orbit Semi-Major Axis [au],5960,0,0.0044,19000.0
+pl_rade,Planet Radius [Earth Radius],6408,0,0.3098,87.20586985
+pl_bmasse,Planet Mass or Mass*sin(i) [Earth Mass],6427,0,0.02,12651.5
+pl_dens,Planet Density [g/cm**3],6312,0,0.0051,2000.0
+pl_eqt,Equilibrium Temperature [K],5918,0,1.48,7777.78
+pl_insol,Insolation Flux [Earth Flux],5862,46,0.0,636352.1258
+st_teff,Stellar Effective Temperature [K],6139,0,415.0,57000.0
+st_rad,Stellar Radius [Solar Radius],6112,0,0.0115,88.475
+st_mass,Stellar Mass [Solar mass],6436,0,0.0094,9.1
+sy_dist,Distance [pc],6413,0,1.30119,8500.0

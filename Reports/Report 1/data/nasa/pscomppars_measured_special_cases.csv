@@ -1,0 +1,41 @@
+variant,m,c,group,n,mean max u,in cluster 0,in cluster 1,in cluster 2
+log10_zscore,2.0,2,Imaging,13,0.533,1,12,
+log10_zscore,2.0,2,other non-transit,31,0.87,23,8,
+log10_zscore,2.0,2,KOI-2513.01,1,0.642,0,1,
+log10_zscore,2.0,2,mass rel. unc. > 0.5,113,0.857,101,12,
+log10_zscore,2.0,2,all measured,1564,0.884,721,843,
+log10_zscore,2.0,3,Imaging,13,0.427,0,13,0.0
+log10_zscore,2.0,3,other non-transit,31,0.766,16,8,7.0
+log10_zscore,2.0,3,KOI-2513.01,1,0.414,0,0,1.0
+log10_zscore,2.0,3,mass rel. unc. > 0.5,113,0.697,67,37,9.0
+log10_zscore,2.0,3,all measured,1564,0.79,526,303,735.0
+log10_zscore,1.5,2,Imaging,13,0.577,0,13,
+log10_zscore,1.5,2,other non-transit,31,0.959,23,8,
+log10_zscore,1.5,2,KOI-2513.01,1,0.774,0,1,
+log10_zscore,1.5,2,mass rel. unc. > 0.5,113,0.94,100,13,
+log10_zscore,1.5,2,all measured,1564,0.95,715,849,
+log10_zscore,1.5,3,Imaging,13,0.672,0,13,0.0
+log10_zscore,1.5,3,other non-transit,31,0.915,20,5,6.0
+log10_zscore,1.5,3,KOI-2513.01,1,0.438,0,1,0.0
+log10_zscore,1.5,3,mass rel. unc. > 0.5,113,0.886,91,12,10.0
+log10_zscore,1.5,3,all measured,1564,0.929,647,181,736.0
+log10_minmax,2.0,2,Imaging,13,0.739,0,13,
+log10_minmax,2.0,2,other non-transit,31,0.933,23,8,
+log10_minmax,2.0,2,KOI-2513.01,1,0.598,0,1,
+log10_minmax,2.0,2,mass rel. unc. > 0.5,113,0.895,98,15,
+log10_minmax,2.0,2,all measured,1564,0.927,689,875,
+log10_minmax,2.0,3,Imaging,13,0.566,0,0,13.0
+log10_minmax,2.0,3,other non-transit,31,0.858,14,9,8.0
+log10_minmax,2.0,3,KOI-2513.01,1,0.41,0,0,1.0
+log10_minmax,2.0,3,mass rel. unc. > 0.5,113,0.728,53,49,11.0
+log10_minmax,2.0,3,all measured,1564,0.833,357,394,813.0
+log10_minmax,1.5,2,Imaging,13,0.881,0,13,
+log10_minmax,1.5,2,other non-transit,31,0.986,23,8,
+log10_minmax,1.5,2,KOI-2513.01,1,0.69,0,1,
+log10_minmax,1.5,2,mass rel. unc. > 0.5,113,0.963,98,15,
+log10_minmax,1.5,2,all measured,1564,0.973,689,875,
+log10_minmax,1.5,3,Imaging,13,0.764,0,0,13.0
+log10_minmax,1.5,3,other non-transit,31,0.959,14,9,8.0
+log10_minmax,1.5,3,KOI-2513.01,1,0.498,0,0,1.0
+log10_minmax,1.5,3,mass rel. unc. > 0.5,113,0.863,46,56,11.0
+log10_minmax,1.5,3,all measured,1564,0.932,330,417,817.0

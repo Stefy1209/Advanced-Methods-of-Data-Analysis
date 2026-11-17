@@ -1,0 +1,6 @@
+pl_bmassprov,n planets,planet_basic,planet_orbit,planet_thermal,planet_star,all_physical
+M-R relationship,3034,1.0,0.793,0.932,0.926,0.749
+Mass,2484,0.841,0.783,0.825,0.808,0.674
+Msini,925,0.964,0.883,0.912,0.882,0.61
+Msin(i)/sin(i),15,1.0,0.933,0.867,0.8,0.667
+(missing),12,0.0,0.0,0.0,0.0,0.0

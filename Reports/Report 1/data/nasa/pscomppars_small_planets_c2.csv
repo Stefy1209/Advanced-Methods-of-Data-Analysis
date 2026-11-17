@@ -1,0 +1,9 @@
+table,variant,m,sizes,proto radius,max radius in cluster 0,min radius in cluster 1,radius overlap (planets in the other cluster's range),proto period,proto mass
+small_PRM,log10_zscore,1.5,"[313, 408]","[1.629, 3.349]",3.2,1.21,480,"[4.13, 16.64]","[3.74, 14.24]"
+small_PRM,log10_zscore,2.0,"[319, 402]","[1.704, 3.298]",3.2,1.21,480,"[4.46, 16.34]","[4.11, 13.77]"
+small_PRM,log10_minmax,1.5,"[302, 419]","[1.574, 3.418]",3.2,1.69,376,"[4.43, 15.23]","[3.79, 13.85]"
+small_PRM,log10_minmax,2.0,"[319, 402]","[1.628, 3.42]",3.2,1.75,361,"[4.63, 14.9]","[4.04, 13.71]"
+small_R,log10_zscore,1.5,"[337, 384]","[1.61, 3.575]",2.39,2.4,0,,
+small_R,log10_zscore,2.0,"[337, 384]","[1.616, 3.562]",2.39,2.4,0,,
+small_R,log10_minmax,1.5,"[337, 384]","[1.61, 3.575]",2.39,2.4,0,,
+small_R,log10_minmax,2.0,"[337, 384]","[1.616, 3.562]",2.39,2.4,0,,

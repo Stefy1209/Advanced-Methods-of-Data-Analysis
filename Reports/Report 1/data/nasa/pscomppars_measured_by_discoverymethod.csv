@@ -1,0 +1,11 @@
+discoverymethod,planet_basic,measured,measured_star
+Transit,4764,1520,1491
+Radial Velocity,1167,26,26
+Transit Timing Variations,27,2,2
+Imaging,25,13,8
+Eclipse Timing Variations,15,0,0
+Microlensing,12,0,0
+Astrometry,8,0,0
+Orbital Brightness Modulation,6,3,3
+Pulsar Timing,5,0,0
+Pulsation Timing Variations,2,0,0

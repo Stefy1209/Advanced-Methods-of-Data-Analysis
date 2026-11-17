@@ -1,0 +1,21 @@
+table,c,comparison,ARI
+measured,2,zscore vs minmax (m=2.0),0.91
+measured,2,zscore vs minmax (m=1.5),0.925
+measured,2,m=2 vs m=1.5 (log10_zscore),0.985
+measured,2,m=2 vs m=1.5 (log10_minmax),1.0
+measured,3,zscore vs minmax (m=2.0),0.642
+measured,3,zscore vs minmax (m=1.5),0.591
+measured,3,m=2 vs m=1.5 (log10_zscore),0.811
+measured,3,m=2 vs m=1.5 (log10_minmax),0.958
+measured,3,"c=2 vs c=3 (m=2, log10_zscore)",0.668
+measured,3,"c=2 vs c=3 (m=2, log10_minmax)",0.691
+planet_basic,2,zscore vs minmax (m=2.0),0.945
+planet_basic,2,zscore vs minmax (m=1.5),0.949
+planet_basic,2,m=2 vs m=1.5 (log10_zscore),0.996
+planet_basic,2,m=2 vs m=1.5 (log10_minmax),0.997
+planet_basic,3,zscore vs minmax (m=2.0),0.399
+planet_basic,3,zscore vs minmax (m=1.5),0.408
+planet_basic,3,m=2 vs m=1.5 (log10_zscore),0.985
+planet_basic,3,m=2 vs m=1.5 (log10_minmax),0.956
+planet_basic,3,"c=2 vs c=3 (m=2, log10_zscore)",0.836
+planet_basic,3,"c=2 vs c=3 (m=2, log10_minmax)",0.502

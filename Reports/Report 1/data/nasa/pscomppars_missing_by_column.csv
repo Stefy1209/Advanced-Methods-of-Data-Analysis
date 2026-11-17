@@ -1,0 +1,326 @@
+column,missing_share,description
+pl_angseperr1,1.0,Angular Separation Upper Unc. [mas]
+pl_angseperr2,1.0,Angular Separation Lower Unc. [mas]
+sy_kepmagerr2,1.0,Kepler Magnitude Lower Unc
+sy_kepmagerr1,1.0,Kepler Magnitude Upper Unc
+sy_icmagerr2,0.9972179289026275,I (Cousins) Magnitude Lower Unc
+pl_occdeperr2,0.9947449768160742,Occultation Depth Lower Unc. [%]
+pl_occdeperr1,0.9947449768160742,Occultation Depth Upper Unc. [%]
+pl_occdep_reflink,0.9942812982998455,Occultation Depth Reference
+pl_occdep,0.9942812982998455,Occultation Depth [%]
+pl_occdeplim,0.9942812982998455,Occultation Depth Limit Flag
+pl_trueobliqerr2,0.989644513137558,True Obliquity Lower Unc. [deg]
+pl_trueobliqerr1,0.989644513137558,True Obliquity Upper Unc. [deg]
+pl_trueobliq_reflink,0.9887171561051005,True Obliquity Reference
+pl_trueobliq,0.9887171561051005,True Obliquity [deg]
+pl_trueobliqlim,0.9887171561051005,True Obliquity Limit Flag
+sy_icmagerr1,0.9661514683153014,I (Cousins) Magnitude Upper Unc
+pl_projobliqerr2,0.9636785162287481,Projected Obliquity Lower Unc. [deg]
+pl_projobliqerr1,0.9636785162287481,Projected Obliquity Upper Unc. [deg]
+pl_projobliq,0.9635239567233385,Projected Obliquity [deg]
+pl_projobliq_reflink,0.9635239567233385,Projected Obliquity Reference
+pl_projobliqlim,0.9635239567233385,Projected Obliquity Limit Flag
+sy_icmag,0.9452859350850077,I (Cousins) Magnitude
+st_rotperr2,0.8825347758887172,Stellar Rotational Period [days] Lower Unc.
+st_rotperr1,0.8825347758887172,Stellar Rotational Period [days] Upper Unc.
+sy_rmagerr2,0.879598145285935,r (Sloan) Magnitude Lower Unc
+sy_umagerr2,0.879598145285935,u (Sloan) Magnitude Lower Unc
+sy_gmagerr2,0.879598145285935,g (Sloan) Magnitude Lower Unc
+sy_zmagerr2,0.879598145285935,z (Sloan) Magnitude Lower Unc
+sy_imagerr2,0.8794435857805255,i (Sloan) Magnitude Lower Unc
+sy_umagerr1,0.879289026275116,u (Sloan) Magnitude Upper Unc
+sy_zmagerr1,0.878516228748068,z (Sloan) Magnitude Upper Unc
+sy_umag,0.8782071097372488,u (Sloan) Magnitude
+pl_orbtper_systemref,0.8721792890262751,Epoco of Periastron Time System Frame and Standard
+sy_gmagerr1,0.8574961360123647,g (Sloan) Magnitude Upper Unc
+sy_imagerr1,0.8568778979907264,i (Sloan) Magnitude Upper Unc
+sy_rmagerr1,0.8557959814528594,r (Sloan) Magnitude Upper Unc
+st_rotplim,0.8534775888717157,Stellar Rotational Period Limit Flag
+st_rotp,0.8534775888717157,Stellar Rotational Period [days]
+st_rotp_reflink,0.8534775888717157,Stellar Rotational Period Reference
+pl_orbtpererr2,0.8383307573415765,Epoch of Periastron Lower Unc. [days]
+pl_orbtpererr1,0.8383307573415765,Epoch of Periastron Upper Unc. [days]
+hd_name,0.8349304482225657,HD ID
+pl_orbtperlim,0.8344667697063369,Epoch of Periastron Limit Flag
+pl_orbtper_reflink,0.8344667697063369,Epoch of Periastron Reference
+pl_orbtper,0.8344667697063369,Epoch of Periastron [days]
+hip_name,0.8190108191653787,HIP ID
+pl_denserr1,0.7697063369397218,Planet Density Upper Unc. [g/cm**3]
+pl_denserr2,0.7697063369397218,Planet Density Lower Unc. [g/cm**3]
+st_vsinerr2,0.7489953632148377,Stellar Rotational Velocity [km/s] Lower Unc.
+st_vsinerr1,0.7468315301391035,Stellar Rotational Velocity [km/s] Upper Unc.
+sy_w4magerr2,0.744049459041731,W4 (WISE) Magnitude Lower Unc
+sy_w4magerr1,0.744049459041731,W4 (WISE) Magnitude Upper Unc
+pl_orblpererr1,0.715919629057187,Argument of Periastron Upper Unc. [deg]
+pl_orblpererr2,0.715919629057187,Argument of Periastron Lower Unc. [deg]
+pl_orbeccenerr1,0.6990726429675425,Eccentricity Upper Unc.
+pl_orbeccenerr2,0.6990726429675425,Eccentricity Lower Unc.
+pl_orblper_reflink,0.6729520865533231,Argument of Periastron Reference
+pl_orblper,0.6729520865533231,Argument of Periastron [deg]
+pl_orblperlim,0.6622874806800618,Argument of Periastron Limit Flag
+pl_orbinclerr1,0.6500772797527048,Inclination Upper Unc. [deg]
+pl_orbinclerr2,0.6497681607418856,Inclination Lower Unc. [deg]
+st_radverr2,0.644049459041731,Systemic Radial Velocity Lower Unc. [km/s]
+st_radverr1,0.6375579598145286,Systemic Radial Velocity Upper Unc. [km/s]
+st_vsinlim,0.6353941267387945,Stellar Rotational Velocity Limit Flag
+st_vsin_reflink,0.6353941267387945,Stellar Rotational Velocity Reference
+st_vsin,0.6353941267387945,Stellar Rotational Velocity [km/s]
+st_spectype,0.6279752704791345,Spectral Type
+st_spectype_reflink,0.6279752704791345,Spectral Type Reference
+st_radv,0.6272024729520865,Systemic Radial Velocity [km/s]
+st_radvlim,0.6272024729520865,Systemic Radial Velocity Limit Flag
+st_radv_reflink,0.6272024729520865,Systemic Radial Velocity Reference
+pl_rvamperr2,0.6143740340030912,Radial Velocity Amplitude Lower Unc. [m/s]
+pl_rvamperr1,0.6143740340030912,Radial Velocity Amplitude Upper Unc. [m/s]
+pl_rvamp,0.6017001545595054,Radial Velocity Amplitude [m/s]
+pl_rvamplim,0.6017001545595054,Radial Velocity Amplitude Limit Flag
+pl_rvamp_reflink,0.6017001545595054,Radial Velocity Amplitude Reference
+pl_eqterr2,0.5734157650695518,Equilibrium Temperature Lower Unc. [K]
+pl_eqterr1,0.5734157650695518,Equilibrium Temperature Upper Unc. [K]
+pl_bmassjerr1,0.5183925811437403,Planet Mass or Mass*sin(i) [Jupiter Mass] Upper Unc.
+pl_bmassjerr2,0.5183925811437403,Planet Mass or Mass*sin(i) [Jupiter Mass] Lower Unc.
+pl_bmasseerr2,0.5183925811437403,Planet Mass or Mass*sin(i) [Earth Mass] Lower Unc.
+pl_bmasseerr1,0.5183925811437403,Planet Mass or Mass*sin(i) [Earth Mass] Upper Unc.
+sy_zmag,0.4919629057187017,z (Sloan) Magnitude
+sy_kepmag,0.46445131375579596,Kepler Magnitude
+sy_imag,0.4587326120556414,i (Sloan) Magnitude
+sy_gmag,0.4528593508500773,g (Sloan) Magnitude
+sy_rmag,0.4502318392581144,r (Sloan) Magnitude
+st_lumerr2,0.39242658423493043,Stellar Luminosity Lower Unc. [log(Solar)]
+st_lumerr1,0.39149922720247293,Stellar Luminosity Upper Unc. [log(Solar)]
+pl_orbsmaxerr1,0.3777434312210201,Orbit Semi-Major Axis Upper Unc. [au]
+pl_orbsmaxerr2,0.3777434312210201,Orbit Semi-Major Axis Lower Unc. [au]
+pl_radjerr2,0.3075734157650695,Planet Radius Lower Unc. [Jupiter Radius]
+pl_radjerr1,0.3075734157650695,Planet Radius Upper Unc. [Jupiter Radius]
+pl_radeerr2,0.3075734157650695,Planet Radius Lower Unc. [Earth Radius]
+pl_radeerr1,0.3075734157650695,Planet Radius Upper Unc. [Earth Radius]
+pl_trandeperr1,0.30741885625966,Transit Depth Upper Unc. [%]
+pl_trandeperr2,0.30741885625966,Transit Depth Lower Unc. [%]
+sy_w3magerr2,0.30587326120556413,W3 (WISE) Magnitude Lower Unc
+pl_impparerr1,0.30324574961360123,Impact Parameter Upper Unc.
+pl_impparerr2,0.30324574961360123,Impact Parameter Lower Unc.
+pl_imppar,0.29428129829984545,Impact Parameter
+pl_imppar_reflink,0.29428129829984545,Impact Parameter Reference
+pl_impparlim,0.29428129829984545,Impact Parameter Limit Flag
+pl_trandeplim,0.2899536321483771,Transit Depth Limit Flag
+pl_trandep_reflink,0.2899536321483771,Transit Depth Reference
+pl_trandep,0.2899536321483771,Transit Depth [%]
+pl_ratdorerr1,0.28887171561051006,Ratio of Semi-Major Axis to Stellar Radius Upper Unc.
+pl_ratdorerr2,0.28887171561051006,Ratio of Semi-Major Axis to Stellar Radius Lower Unc.
+pl_ratrorerr2,0.28778979907264296,Ratio of Planet to Stellar Radius Lower Unc.
+pl_ratrorerr1,0.28778979907264296,Ratio of Planet to Stellar Radius Upper Unc.
+pl_tsm,0.2873261205564142,Transmission Spectroscopy Metric
+pl_ratdorlim,0.28624420401854717,Ratio of Semi-Major Axis to Stellar Radius Limit Flag
+pl_ratdor_reflink,0.28624420401854717,Ratio of Semi-Major Axis to Stellar Radius Reference
+pl_ratdor,0.28624420401854717,Ratio of Semi-Major Axis to Stellar Radius
+pl_trandurerr2,0.28531684698608967,Transit Duration Lower Unc. [hours]
+pl_trandurerr1,0.28531684698608967,Transit Duration Upper Unc. [hours]
+pl_ratror_reflink,0.2819165378670788,Ratio of Planet to Stellar Radius Reference
+pl_ratror,0.2819165378670788,Ratio of Planet to Stellar Radius
+pl_ratrorlim,0.2819165378670788,Ratio of Planet to Stellar Radius Limit Flag
+st_ageerr1,0.2791344667697063,Stellar Age Upper Unc. [Gyr]
+st_ageerr2,0.2791344667697063,Stellar Age Lower Unc. [Gyr]
+pl_trandur,0.2704791344667697,Transit Duration [hours]
+pl_trandurlim,0.2704791344667697,Transit Duration Limit Flag
+pl_trandur_reflink,0.2704791344667697,Transit Duration Reference
+sy_w3magerr1,0.2632148377125193,W3 (WISE) Magnitude Upper Unc
+pl_insolerr1,0.26213292117465226,Insolation Flux Upper Unc. [Earth Flux]
+pl_insolerr2,0.26213292117465226,Insolation Flux Lower Unc. [Earth Flux]
+pl_orbincllim,0.2502318392581144,Inclination Limit Flag
+pl_orbincl_reflink,0.2502318392581144,Inclination Reference
+pl_orbincl,0.2502318392581144,Inclination [deg]
+st_age_reflink,0.23987635239567234,Stellar Age Reference
+st_age,0.23987635239567234,Stellar Age [Gyr]
+st_agelim,0.2293663060278207,Stellar Age Limit Flag
+pl_tranmiderr2,0.21282843894899536,Transit Midpoint Lower Unc. [days]
+pl_tranmiderr1,0.21282843894899536,Transit Midpoint Upper Unc. [days]
+pl_tranmid_systemref,0.21066460587326122,Transit Midpoint Time Reference Frame and Standard
+pl_tranmid_reflink,0.20309119010819165,Time of Conjunction (Transit Midpoint) Reference
+pl_tranmid,0.20309119010819165,Transit Midpoint [days]
+pl_tranmidlim,0.20309119010819165,Transit Midpoint Limit Flag
+pl_orbeccenlim,0.16723338485316847,Eccentricity Limit Flag
+pl_orbeccen,0.16723338485316847,Eccentricity
+pl_orbeccen_reflink,0.16723338485316847,Eccentricity Reference
+sy_w1magerr2,0.1562596599690881,W1 (WISE) Magnitude Lower Unc
+st_meterr2,0.1561051004636785,Stellar Metallicity Lower Unc. [dex]
+st_meterr1,0.1561051004636785,Stellar Metallicity Upper Unc. [dex]
+sy_w2magerr2,0.1545595054095827,W2 (WISE) Magnitude Lower Unc
+pl_orbpererr2,0.13323029366306027,Orbital Period Lower Unc. [days]
+pl_orbpererr1,0.13323029366306027,Orbital Period Upper Unc. [days]
+st_denserr2,0.11916537867078825,Stellar Density Lower Unc. [g/cm**3]
+st_denserr1,0.11916537867078825,Stellar Density Upper Unc. [g/cm**3]
+sy_w1magerr1,0.11561051004636785,W1 (WISE) Magnitude Upper Unc
+st_metratio,0.11530139103554869,Stellar Metallicity Ratio
+sy_w2magerr1,0.11298299845440495,W2 (WISE) Magnitude Upper Unc
+st_met_reflink,0.1125193199381762,Stellar Metallicity Reference
+st_met,0.1125193199381762,Stellar Metallicity [dex]
+st_metlim,0.1125193199381762,Stellar Metallicity Limit Flag
+sy_w4mag,0.10525502318392581,W4 (WISE) Magnitude
+sy_w3mag,0.10510046367851623,W3 (WISE) Magnitude
+sy_w1mag,0.10510046367851623,W1 (WISE) Magnitude
+sy_w2mag,0.10494590417310665,W2 (WISE) Magnitude
+st_loggerr1,0.10108191653786708,Stellar Surface Gravity Upper Unc. [log10(cm/s**2)]
+st_loggerr2,0.10108191653786708,Stellar Surface Gravity Lower Unc. [log10(cm/s**2)]
+st_tefferr2,0.09860896445131376,Stellar Effective Temperature Lower Unc. [K]
+st_tefferr1,0.09860896445131376,Stellar Effective Temperature Upper Unc. [K]
+st_dens_reflink,0.09845440494590417,Stellar Density Reference
+st_denslim,0.09845440494590417,Stellar Density Limit Flag
+st_dens,0.09845440494590417,Stellar Density [g/cm**3]
+st_raderr2,0.09783616692426585,Stellar Radius Lower Unc. [Solar Radius]
+st_raderr1,0.09768160741885626,Stellar Radius Upper Unc. [Solar Radius]
+pl_esm,0.09721792890262751,Emission Spectroscopy Metric
+pl_insol_reflink,0.09397217928902628,Insolation Flux Reference
+pl_insol,0.09397217928902628,Insolation Flux [Earth Flux]
+pl_insollim,0.09397217928902628,Insolation Flux Limit Flag
+pl_eqt_reflink,0.08531684698608964,Equilibrium Temperature Reference
+pl_eqt,0.08531684698608964,Equilibrium Temperature [K]
+pl_eqtlim,0.08531684698608964,Equilibrium Temperature Limit Flag
+pl_angsep,0.08346213292117466,Angular Separation [mas]
+pl_angsep_reflink,0.08346213292117466,Angular Separation Reference
+pl_angseplim,0.08346213292117466,Angular Separation Limit Flag
+sy_bmagerr2,0.08006182380216384,B (Johnson) Magnitude Lower Unc
+pl_orbsmax,0.07882534775888717,Orbit Semi-Major Axis [au]
+pl_orbsmax_reflink,0.07882534775888717,Orbit Semi-Major Axis Reference
+pl_orbsmaxlim,0.07867078825347759,Orbit Semi-Major Axis Limit Flag
+sy_bmagerr1,0.07511591962905718,B (Johnson) Magnitude Upper Unc
+sy_bmag,0.07264296754250386,B (Johnson) Magnitude
+sy_plxerr2,0.0678516228748068,Parallax [mas] Lower Unc
+sy_plx,0.0678516228748068,Parallax [mas]
+sy_plxerr1,0.0678516228748068,Parallax [mas] Upper Unc
+gaia_dr3_id,0.061823802163833076,Gaia DR3 ID
+sy_gaiamagerr2,0.06012364760432767,Gaia Magnitude Lower Unc
+sy_gaiamagerr1,0.06012364760432767,Gaia Magnitude Upper Unc
+sy_gaiamag,0.06012364760432767,Gaia Magnitude
+sy_kmagerr2,0.05842349304482226,Ks (2MASS) Magnitude Lower Unc
+sy_jmagerr2,0.05749613601236476,J (2MASS) Magnitude Lower Unc
+sy_jmagerr1,0.05749613601236476,J (2MASS) Magnitude Upper Unc
+sy_kmagerr1,0.05672333848531685,Ks (2MASS) Magnitude Upper Unc
+gaia_dr2_id,0.05641421947449768,Gaia DR2 ID
+st_logglim,0.05641421947449768,Stellar Surface Gravity Limit Flag
+st_logg_reflink,0.05641421947449768,Stellar Surface Gravity Reference
+st_logg,0.05641421947449768,Stellar Surface Gravity [log10(cm/s**2)]
+sy_pmraerr2,0.0562596599690881,Proper Motion (RA) [mas/yr] Lower Unc
+sy_pmdecerr2,0.0562596599690881,Proper Motion (Dec) [mas/yr] Lower Unc
+sy_pmerr2,0.0562596599690881,Total Proper Motion Lower Unc [mas/yr]
+pl_orbperlim,0.055950540958268936,Orbital Period Limit Flag
+pl_orbper,0.055950540958268936,Orbital Period [days]
+pl_orbper_reflink,0.055950540958268936,Orbital Period Reference
+sy_hmagerr2,0.05548686244204019,H (2MASS) Magnitude Lower Unc
+sy_hmagerr1,0.05548686244204019,H (2MASS) Magnitude Upper Unc
+st_radlim,0.0553323029366306,Stellar Radius Limit Flag
+st_rad_reflink,0.0553323029366306,Stellar Radius Reference
+st_rad,0.0553323029366306,Stellar Radius [Solar Radius]
+sy_vmagerr2,0.05517774343122102,V (Johnson) Magnitude Lower Unc
+sy_pmraerr1,0.05471406491499227,Proper Motion (RA) [mas/yr] Upper Unc
+st_lum,0.05471406491499227,Stellar Luminosity [log(Solar)]
+sy_pmdecerr1,0.05471406491499227,Proper Motion (Dec) [mas/yr] Upper Unc
+st_lumlim,0.05471406491499227,Stellar Luminosity Limit Flag
+st_lum_reflink,0.05471406491499227,Stellar Luminosity Reference
+sy_pmerr1,0.05471406491499227,Total Proper Motion Upper Unc [mas/yr]
+sy_jmag,0.05455950540958269,J (2MASS) Magnitude
+sy_vmagerr1,0.05440494590417311,V (Johnson) Magnitude Upper Unc
+sy_pmdec,0.05425038639876353,Proper Motion (Dec) [mas/yr]
+sy_pmra,0.05425038639876353,Proper Motion (RA) [mas/yr]
+sy_pm,0.05425038639876353,Total Proper Motion [mas/yr]
+sy_tmagerr2,0.05347758887171561,TESS Magnitude Lower Unc
+sy_tmagerr1,0.05347758887171561,TESS Magnitude Upper Unc
+sy_vmag,0.05316846986089645,V (Johnson) Magnitude
+sy_hmag,0.05208655332302937,H (2MASS) Magnitude
+sy_tmag,0.05208655332302937,TESS Magnitude
+st_teff,0.05115919629057187,Stellar Effective Temperature [K]
+st_teff_reflink,0.05115919629057187,Stellar Effective Temperature Reference
+st_tefflim,0.05115919629057187,Stellar Effective Temperature Limit Flag
+sy_kmag,0.05100463678516229,Ks (2MASS) Magnitude
+st_masserr2,0.04837712519319938,Stellar Mass Lower Unc. [Solar mass]
+st_masserr1,0.0482225656877898,Stellar Mass Upper Unc. [Solar mass]
+tic_id,0.04775888717156105,TIC ID
+sy_disterr1,0.02581143740340031,Distance [pc] Upper Unc
+sy_disterr2,0.02581143740340031,Distance [pc] Lower Unc
+pl_dens,0.024420401854714065,Planet Density [g/cm**3]
+pl_denslim,0.024420401854714065,Planet Density Limit Flag
+pl_dens_reflink,0.024420401854714065,Planet Density Reference
+pl_radj_reflink,0.009582689335394128,Planet Radius Reference
+pl_radjlim,0.009582689335394128,Planet Radius Limit Flag
+pl_rade_reflink,0.009582689335394128,Planet Radius Reference
+pl_radelim,0.009582689335394128,Planet Radius Limit Flag
+pl_rade,0.009582689335394128,Planet Radius [Earth Radius]
+pl_radj,0.009582689335394128,Planet Radius [Jupiter Radius]
+sy_dist,0.008809891808346213,Distance [pc]
+pl_bmasselim,0.006646058732612056,Planet Mass or Mass*sin(i) [Earth Mass] Limit Flag
+pl_bmassjlim,0.006646058732612056,Planet Mass or Mass*sin(i) [Jupiter Mass] Limit Flag
+pl_bmasse,0.006646058732612056,Planet Mass or Mass*sin(i) [Earth Mass]
+pl_bmassj,0.006646058732612056,Planet Mass or Mass*sin(i) [Jupiter Mass]
+st_mass,0.005255023183925811,Stellar Mass [Solar mass]
+st_masslim,0.005255023183925811,Stellar Mass Limit Flag
+st_mass_reflink,0.005255023183925811,Stellar Mass Reference
+sy_icmag_reflink,0.004482225656877898,I (Cousins) Magnitude Reference
+sy_kepmag_reflink,0.004482225656877898,Kepler Magnitude Reference
+sy_tmag_reflink,0.004482225656877898,TESS Magnitude Reference
+pl_nnotes,0.004482225656877898,Number of Notes
+st_nphot,0.004482225656877898,Number of Photometry Time Series
+st_nspec,0.004482225656877898,Number of Stellar Spectra Measurements
+st_nrvc,0.004482225656877898,Number of Radial Velocity Time Series
+sy_w4mag_reflink,0.004482225656877898,W4 (WISE) Magnitude Reference
+sy_w2mag_reflink,0.004482225656877898,W2 (WISE) Magnitude Reference
+sy_gaiamag_reflink,0.004482225656877898,Gaia Magnitude Reference
+sy_rmag_reflink,0.004482225656877898,r (Sloan) Magnitude Reference
+pl_nobs_jwst_pc,0.004482225656877898,Number of JWST Phase Curve Observations
+sy_imag_reflink,0.004482225656877898,i (Sloan) Magnitude Reference
+sy_zmag_reflink,0.004482225656877898,z (Sloan) Magnitude Reference
+sy_w1mag_reflink,0.004482225656877898,W1 (WISE) Magnitude Reference
+pl_nobs_jwst_tran,0.004482225656877898,Number of JWST Transit Observations
+pl_nobs_jwst_e,0.004482225656877898,Number of JWST Eclipse Observations
+pl_ndispec,0.004482225656877898,Number of Direct Imaging Spectra
+sy_gmag_reflink,0.004482225656877898,g (Sloan) Magnitude Reference
+sy_w3mag_reflink,0.004482225656877898,W3 (WISE) Magnitude Reference
+glon,0.004482225656877898,Galactic Longitude [deg]
+elat,0.004482225656877898,Ecliptic Latitude [deg]
+sy_pm_reflink,0.004482225656877898,Proper Motion Reference
+pl_nespec,0.004482225656877898,Number of Eclipse Spectra
+ra,0.004482225656877898,RA [deg]
+sy_umag_reflink,0.004482225656877898,u (Sloan) Magnitude Reference
+sy_vmag_reflink,0.004482225656877898,V (Johnson) Magnitude Reference
+glat,0.004482225656877898,Galactic Latitude [deg]
+sy_bmag_reflink,0.004482225656877898,B (Johnson) Magnitude Reference
+sy_dist_reflink,0.004482225656877898,Distance Reference
+sy_plx_reflink,0.004482225656877898,Parallax Reference
+ra_reflink,0.004482225656877898,Position Reference
+elon,0.004482225656877898,Ecliptic Longitude [deg]
+decstr,0.004482225656877898,Dec [sexagesimal]
+rastr,0.004482225656877898,RA [sexagesimal]
+dec,0.004482225656877898,Dec [deg]
+sy_kmag_reflink,0.004482225656877898,Ks (2MASS) Magnitude Reference
+sy_jmag_reflink,0.004482225656877898,J (2MASS) Magnitude Reference
+sy_hmag_reflink,0.004482225656877898,H (2MASS) Magnitude Reference
+pl_ntranspec,0.004482225656877898,Number of Transmission Spectra
+ttv_flag,0.0026275115919629057,Data show Transit Timing Variations
+pl_bmassj_reflink,0.0018547140649149924,Planet Mass or Mass*sin(i) [Jupiter Mass] Reference
+pl_bmassprov,0.0018547140649149924,Planet Mass or Mass*sin(i) Provenance
+pl_bmasse_reflink,0.0018547140649149924,Planet Mass or Mass*sin(i) [Earth Mass] Reference
+micro_flag,0.0009273570324574962,Detected by Microlensing
+ast_flag,0.0009273570324574962,Detected by Astrometric Variations
+obm_flag,0.0009273570324574962,Detected by Orbital Brightness Modulations
+disc_telescope,0.0009273570324574962,Discovery Telescope
+disc_facility,0.0009273570324574962,Discovery Facility
+disc_locale,0.0009273570324574962,Discovery Locale
+tran_flag,0.0009273570324574962,Detected by Transits
+ptv_flag,0.0009273570324574962,Detected by Pulsation Timing Variations
+pul_flag,0.0009273570324574962,Detected by Pulsar Timing Variations
+rv_flag,0.0009273570324574962,Detected by Radial Velocity Variations
+disc_instrument,0.0009273570324574962,Discovery Instrument
+etv_flag,0.0009273570324574962,Detected by Eclipse Timing Variations
+ima_flag,0.0009273570324574962,Detected by Imaging
+dkin_flag,0.0009273570324574962,Detected by Disk Kinematics
+disc_pubdate,0.0009273570324574962,Discovery Publication Date
+pl_controv_flag,0.0009273570324574962,Controversial Flag
+discoverymethod,0.0,Discovery Method
+sy_pnum,0.0,Number of Planets
+cb_flag,0.0,Circumbinary Flag
+pl_letter,0.0,Planet Letter
+hostname,0.0,Host Name
+rowid,0.0,
+sy_mnum,0.0,Number of Moons
+disc_refname,0.0,Discovery Reference
+disc_year,0.0,Discovery Year
+pl_name,0.0,Planet Name
+sy_snum,0.0,Number of Stars

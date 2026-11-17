@@ -1,0 +1,16 @@
+added column,description,missing share,complete rows,share of all rows
+st_mass,Stellar Mass [Solar mass],0.005,6436,0.995
+pl_bmasse,Planet Mass or Mass*sin(i) [Earth Mass],0.007,6407,0.99
+pl_rade,Planet Radius [Earth Radius],0.01,6364,0.984
+pl_dens,Planet Density [g/cm**3],0.024,6291,0.972
+st_teff,Stellar Effective Temperature [K],0.051,5985,0.925
+st_lum,Stellar Luminosity [log(Solar)],0.055,5968,0.922
+st_rad,Stellar Radius [Solar Radius],0.055,5961,0.921
+pl_orbper,Orbital Period [days],0.056,5906,0.913
+st_logg,Stellar Surface Gravity [log10(cm/s**2)],0.056,5896,0.911
+pl_orbsmax,Orbit Semi-Major Axis [au],0.079,5419,0.838
+pl_eqt,Equilibrium Temperature [K],0.085,5419,0.838
+pl_insol,Insolation Flux [Earth Flux],0.094,5419,0.838
+st_met,Stellar Metallicity [dex],0.113,5251,0.812
+pl_orbeccen,Eccentricity,0.167,4974,0.769
+st_age,Stellar Age [Gyr],0.24,4521,0.699

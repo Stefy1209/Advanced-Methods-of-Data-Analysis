@@ -1,0 +1,17 @@
+origin,partition,cluster 0,cluster 1,cluster 2
+mass calculated from radius,"log10_zscore, c=2",2957,77,
+measured (main table),"log10_zscore, c=2",709,855,
+"other (Msini, limits, ...)","log10_zscore, c=2",158,57,
+radius calculated from mass,"log10_zscore, c=2",333,885,
+mass calculated from radius,"log10_zscore, c=3",2916,97,21.0
+measured (main table),"log10_zscore, c=3",660,842,62.0
+"other (Msini, limits, ...)","log10_zscore, c=3",148,53,14.0
+radius calculated from mass,"log10_zscore, c=3",331,134,753.0
+mass calculated from radius,"log10_minmax, c=2",2939,95,
+measured (main table),"log10_minmax, c=2",682,882,
+"other (Msini, limits, ...)","log10_minmax, c=2",160,55,
+radius calculated from mass,"log10_minmax, c=2",341,877,
+mass calculated from radius,"log10_minmax, c=3",1414,1571,49.0
+measured (main table),"log10_minmax, c=3",229,503,832.0
+"other (Msini, limits, ...)","log10_minmax, c=3",73,102,40.0
+radius calculated from mass,"log10_minmax, c=3",94,268,856.0

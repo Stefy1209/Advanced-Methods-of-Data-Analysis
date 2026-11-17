@@ -1,0 +1,609 @@
+column,side,value,pl_name,discoverymethod,pl_bmassprov,disc_facility
+pl_orbper,high,8040000.0,CFHTWIR-Oph 98 b,Imaging,Mass,Hubble Space Telescope
+pl_orbper,high,402000000.0,COCONUTS-2 b,Imaging,Mass,NASA Infrared Telescope Facility (IRTF)
+pl_orbper,high,77114.07158,HD 105618 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,26472.44623,HD 111232 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,32669.22247,HD 11505 b,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,26500.0,HD 11506 d,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,36336.70679,HD 12235 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,117000.0,HD 143811 AB b,Imaging,Mass,Paranal Observatory
+pl_orbper,high,40654.64809,HD 153557 d,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,28982.41764,HD 18143 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,74839.94555,HD 62364 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,35500.0,HD 72659 c,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,31000.0,HIP 39017 b,Imaging,Mass,Multiple Observatories
+pl_orbper,high,33000.0,HIP 54515 b,Imaging,Mass,Subaru Telescope
+pl_orbper,high,104100.0,HIP 81208 C b,Imaging,Mass,Paranal Observatory
+pl_orbper,high,27000.0,HR 5183 b,Radial Velocity,Mass,Multiple Observatories
+pl_orbper,high,170000.0,HR 8799 b,Imaging,Mass,Gemini Observatory
+pl_orbper,high,69000.0,HR 8799 c,Imaging,Mass,Gemini Observatory
+pl_orbper,high,37000.0,HR 8799 d,Imaging,Mass,W. M. Keck Observatory
+pl_orbper,high,7300000.0,Oph 11 b,Imaging,Mass,Gemini Observatory
+pl_orbper,high,43500.0,PDS 70 b,Imaging,Mass,Paranal Observatory
+pl_orbper,high,44000.0,PZ Tel b,Imaging,Mass,W. M. Keck Observatory
+pl_orbper,high,5800000.0,VHS J125601.92-125723.9 b,Imaging,Mass,Paranal Observatory
+pl_orbper,high,1790000.0,b Cen AB b,Imaging,Mass,Paranal Observatory
+pl_orbper,high,33200.0,bet Pic d,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,330.0,1RXS J160929.1-210524 b,Imaging,Mass,Gemini Observatory
+pl_orbsmax,high,118.0,2M0437 b,Imaging,Mass,Subaru Telescope
+pl_orbsmax,high,84.0,2MASS J01033563-5515561 AB b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,156.0,2MASS J02192210-3925225 b,Imaging,Mass,Cerro Tololo Inter-American Observatory
+pl_orbsmax,high,1950.0,2MASS J0249-0557 c,Imaging,Mass,Mauna Kea Observatory
+pl_orbsmax,high,572.0,2MASS J03590986+2009361 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,266.0,2MASS J11011926-7732383 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,587.0,2MASS J11550485-7919108 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,7493.0,2MASS J21252752-8138278 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,230.0,2MASS J22362452+4751425 b,Imaging,Mass,W. M. Keck Observatory
+pl_orbsmax,high,518.0,2MASS J22501512+2325342 b,Imaging,Mass,The 2 (Two) Micron All Sky Survey (2MASS)
+pl_orbsmax,high,93.9,AB Aur b,Imaging,Mass,Subaru Telescope
+pl_orbsmax,high,260.0,AB Pic b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,1662.0,BD+60 1417 b,Imaging,Mass,Wide-field Infrared Survey Explorer (WISE) Sat
+pl_orbsmax,high,200.0,CFHTWIR-Oph 98 b,Imaging,Mass,Hubble Space Telescope
+pl_orbsmax,high,210.0,CHXR 73 b,Imaging,Mass,Hubble Space Telescope
+pl_orbsmax,high,7506.0,COCONUTS-2 b,Imaging,Mass,NASA Infrared Telescope Facility (IRTF)
+pl_orbsmax,high,440.0,CT Cha b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,330.0,DH Tau b,Imaging,Mass,Subaru Telescope
+pl_orbsmax,high,800.0,FU Tau b,Imaging,Mass,Spitzer Space Telescope
+pl_orbsmax,high,350.0,G 196-3 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,12000.0,GJ 900 b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,100.0,GQ Lup b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,320.0,GSC 06214-00210 b,Imaging,Mass,Palomar Observatory
+pl_orbsmax,high,2000.0,GU Psc b,Imaging,Mass,Gemini Observatory
+pl_orbsmax,high,650.0,HD 106906 b,Imaging,Mass,Las Campanas Observatory
+pl_orbsmax,high,487.1,HD 203030 b,Imaging,Mass,Palomar Observatory
+pl_orbsmax,high,431.16,HD 284149 AB b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,130.0,HD 97048 b,Disk Kinematics,Mass,Atacama Large Millimeter Array (ALMA)
+pl_orbsmax,high,92.0,HIP 65426 b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,3319.0,HIP 77900 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,740.0,HIP 78530 b,Imaging,Mass,Gemini Observatory
+pl_orbsmax,high,345.0,HIP 79098 AB b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,773.0,HN Peg b,Imaging,Mass,Spitzer Space Telescope
+pl_orbsmax,high,68.0,HR 8799 b,Imaging,Mass,Gemini Observatory
+pl_orbsmax,high,435.0,ITG 15 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+pl_orbsmax,high,690.0,KOINTREAU-1 b,Imaging,Mass,W. M. Keck Observatory
+pl_orbsmax,high,342.0,KOINTREAU-3 b,Imaging,Mass,W. M. Keck Observatory
+pl_orbsmax,high,182.0,KOINTREAU-4 b,Imaging,Mass,W. M. Keck Observatory
+pl_orbsmax,high,450.0,LP 261-75 b,Imaging,Mass,Apache Point Observatory
+pl_orbsmax,high,100.0,MWC 758 c,Imaging,Msini,Large Binocular Telescope Observatory
+pl_orbsmax,high,243.0,Oph 11 b,Imaging,Mass,Gemini Observatory
+pl_orbsmax,high,210.0,ROXs 12 b,Imaging,Mass,W. M. Keck Observatory
+pl_orbsmax,high,157.0,ROXs 42 B b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,1100.0,Ross 458 c,Imaging,Mass,Las Campanas Observatory
+pl_orbsmax,high,146.0,TYC 8998-760-1 b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,320.0,TYC 8998-760-1 c,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,6100.0,UCAC3 113-933 b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,19000.0,UCAC4 328-061594 b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,670.0,USco CTIO 108 b,Imaging,Mass,Teide Observatory
+pl_orbsmax,high,3500.0,USco1556 b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,2880.0,USco1621 b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,71.0,V2376 Ori b,Imaging,Mass,Multiple Observatories
+pl_orbsmax,high,350.0,VHS J125601.92-125723.9 b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,2500.0,WD 0806-661 b,Imaging,Mass,Spitzer Space Telescope
+pl_orbsmax,high,338.0,WISPIT 1 b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,840.0,WISPIT 1 c,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,556.0,b Cen AB b,Imaging,Mass,Paranal Observatory
+pl_orbsmax,high,242.4,mu2 Sco b,Imaging,Mass,Paranal Observatory
+pl_dens,high,2000.0,KOI-2513.01,Transit,Mass,Kepler
+pl_dens,high,273.0,Kepler-203 c,Transit,Mass,Kepler
+pl_dens,high,526.0,Kepler-238 b,Transit,Mass,Kepler
+pl_dens,low,0.0111,Kepler-245 d,Transit,Mass,Kepler
+pl_dens,high,902.0,Kepler-245 e,Transit,Mass,Kepler
+pl_dens,low,0.0051,Kepler-281 c,Transit,Mass,Kepler
+pl_dens,high,879.0,Kepler-37 e,Transit,Msini,Kepler
+pl_dens,high,380.0,Kepler-391 b,Transit,Mass,Kepler
+pl_dens,high,400.0,Kepler-391 c,Transit,Mass,Kepler
+pl_dens,high,372.0,Kepler-415 b,Transit,Mass,Kepler
+pl_dens,high,703.0,Kepler-80 f,Transit,Mass,Kepler
+pl_dens,high,220.0,Kepler-82 d,Transit,Mass,Kepler
+pl_eqt,low,6.27,2MASS J02192210-3925225 b,Imaging,Mass,Cerro Tololo Inter-American Observatory
+pl_eqt,low,17.6,2MASS J04414489+2301513 b,Imaging,Mass,Hubble Space Telescope
+pl_eqt,low,10.3,2MASS J22362452+4751425 b,Imaging,Mass,W. M. Keck Observatory
+pl_eqt,low,15.8,AB Pic b,Imaging,Mass,Paranal Observatory
+pl_eqt,low,24.39,DP Leo b,Eclipse Timing Variations,Mass,Yunnan Astronomical Observatory
+pl_eqt,low,36.57,GJ 680 b,Radial Velocity,Mass,Multiple Observatories
+pl_eqt,low,1.48,GJ 900 b,Imaging,Mass,Multiple Observatories
+pl_eqt,low,10.77,HN Peg b,Imaging,Mass,Spitzer Space Telescope
+pl_eqt,low,8.74,KOINTREAU-3 b,Imaging,Mass,W. M. Keck Observatory
+pl_eqt,low,34.0,MOA-2007-BLG-400L b,Microlensing,Mass,MOA
+pl_eqt,low,13.23,ROXs 12 b,Imaging,Mass,W. M. Keck Observatory
+pl_eqt,low,35.94,RR Cae b,Eclipse Timing Variations,Msini,Leoncito Astronomical Complex
+pl_eqt,low,4.32,Ross 458 c,Imaging,Mass,Las Campanas Observatory
+pl_eqt,low,1.79,UCAC3 113-933 b,Imaging,Mass,Multiple Observatories
+pl_eqt,low,2.96,USco CTIO 108 b,Imaging,Mass,Teide Observatory
+pl_eqt,low,12.94,WISPIT 1 b,Imaging,Mass,Paranal Observatory
+pl_eqt,low,8.21,WISPIT 1 c,Imaging,Mass,Paranal Observatory
+pl_eqt,low,33.46,WISPIT 2 b,Imaging,Mass,Paranal Observatory
+pl_insol,low,0.0001,DP Leo b,Eclipse Timing Variations,Mass,Yunnan Astronomical Observatory
+pl_insol,low,0.0005,GJ 3512 c,Radial Velocity,Msini,Multiple Observatories
+pl_insol,low,0.0003,GJ 680 b,Radial Velocity,Mass,Multiple Observatories
+pl_insol,low,0.0001,GQ Lup b,Imaging,Mass,Paranal Observatory
+pl_insol,low,0.0003,PDS 70 c,Imaging,Mass,European Southern Observatory
+pl_insol,low,0.0003,RR Cae b,Eclipse Timing Variations,Msini,Leoncito Astronomical Complex
+pl_insol,low,0.0003,TOI-6478 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+pl_insol,low,0.0002,WISPIT 2 b,Imaging,Mass,Paranal Observatory
+st_teff,high,29564.0,2MASS J19383260+4603591 b,Eclipse Timing Variations,Mass,Kepler
+st_teff,low,1800.0,CD-35 2722 B b,Radial Velocity,Msini,Paranal Observatory
+st_teff,low,580.5,CFBDSIR J145829+101343 b,Imaging,Mass,W. M. Keck Observatory
+st_teff,low,2320.0,CFHTWIR-Oph 98 b,Imaging,Mass,Hubble Space Telescope
+st_teff,high,13500.0,DP Leo b,Eclipse Timing Variations,Mass,Yunnan Astronomical Observatory
+st_teff,high,10500.0,HD 100546 b,Imaging,Mass,Paranal Observatory
+st_teff,high,13646.0,HIP 77900 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+st_teff,high,10500.0,HIP 78530 b,Imaging,Mass,Gemini Observatory
+st_teff,high,27500.0,KIC 10001893 b,Orbital Brightness Modulation,Msini,Kepler
+st_teff,high,27500.0,KIC 10001893 c,Orbital Brightness Modulation,Msini,Kepler
+st_teff,high,27500.0,KIC 10001893 d,Orbital Brightness Modulation,Msini,Kepler
+st_teff,high,27730.0,KOI-55 b,Orbital Brightness Modulation,Mass,Kepler
+st_teff,high,27730.0,KOI-55 c,Orbital Brightness Modulation,Mass,Kepler
+st_teff,high,29564.0,Kepler-451 c,Eclipse Timing Variations,Msini,Multiple Observatories
+st_teff,high,29564.0,Kepler-451 d,Eclipse Timing Variations,Msini,Multiple Observatories
+st_teff,high,57000.0,NN Ser c,Eclipse Timing Variations,Mass,Multiple Observatories
+st_teff,high,57000.0,NN Ser d,Eclipse Timing Variations,Mass,Multiple Observatories
+st_teff,high,40000.0,NSVS 14256825 b,Eclipse Timing Variations,Msini,Multiple Observatories
+st_teff,high,32780.0,NY Vir b,Eclipse Timing Variations,Mass,Multiple Observatories
+st_teff,high,32780.0,NY Vir c,Eclipse Timing Variations,Msini,Winer Observatory
+st_teff,low,2375.0,Oph 11 b,Imaging,Mass,Gemini Observatory
+st_teff,low,2566.0,TRAPPIST-1 b,Transit,Mass,La Silla Observatory
+st_teff,low,2566.0,TRAPPIST-1 c,Transit,Mass,La Silla Observatory
+st_teff,low,2566.0,TRAPPIST-1 d,Transit,Mass,La Silla Observatory
+st_teff,low,2566.0,TRAPPIST-1 e,Transit,Mass,Multiple Observatories
+st_teff,low,2566.0,TRAPPIST-1 f,Transit,Mass,Multiple Observatories
+st_teff,low,2566.0,TRAPPIST-1 g,Transit,Mass,Multiple Observatories
+st_teff,low,2566.0,TRAPPIST-1 h,Transit,Mass,Multiple Observatories
+st_teff,low,2700.0,USco CTIO 108 b,Imaging,Mass,Teide Observatory
+st_teff,high,29300.0,V0391 Peg b,Pulsation Timing Variations,Msini,Multiple Observatories
+st_teff,low,2620.0,VHS J125601.92-125723.9 b,Imaging,Mass,Paranal Observatory
+st_teff,high,10393.0,WD 0806-661 b,Imaging,Mass,Spitzer Space Telescope
+st_teff,low,415.0,WISE J033605.05-014350.4 b,Imaging,Mass,James Webb Space Telescope (JWST)
+st_teff,low,575.0,WISEP J121756.91+162640.2 A b,Imaging,Mass,W. M. Keck Observatory
+st_teff,high,15900.0,ZTF J1828+2308 b,Transit,Mass,Zwicky Transient Facility
+st_teff,high,11327.0,kap And b,Imaging,Mass,Subaru Telescope
+st_teff,high,21700.0,mu2 Sco b,Imaging,Mass,Paranal Observatory
+st_rad,high,13.76,11 Com b,Radial Velocity,Msini,Xinglong Station
+st_rad,high,29.79,11 UMi b,Radial Velocity,Msini,Thueringer Landessternwarte Tautenburg
+st_rad,high,11.55,14 And b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,25.92,17 Sco b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,8.8,18 Del b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,12.19,24 Boo b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,18.11,4 UMa b,Radial Velocity,Msini,Thueringer Landessternwarte Tautenburg
+st_rad,high,10.38,75 Cet b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,10.38,75 Cet c,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,10.73,8 UMi b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,11.21,81 Cet b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,11.0,91 Aqr b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,32.35,BD+03 2562 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,8.95,BD+15 2375 b,Radial Velocity,Msini,Roque de los Muchachos Observatory
+st_rad,high,14.7,BD+15 2940 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,49.0,BD+20 2457 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,49.0,BD+20 2457 c,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,17.3,BD+20 274 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,50.24,BD+37 3172 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,17.85,BD+42 2315 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,11.0,BD+48 738 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,10.33,BD+48 740 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,7.6,BD+49 828 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,19.17,BD-13 2130 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.175,CD Cet b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.159,CD-35 2722 B b,Radial Velocity,Msini,Paranal Observatory
+st_rad,low,0.0115,DP Leo b,Eclipse Timing Variations,Mass,Yunnan Astronomical Observatory
+st_rad,low,0.170718,G 192-15 b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.170718,G 192-15 c,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.153162,G 261-6 b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.177,G 268-110 b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.137,GJ 1002 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,low,0.137,GJ 1002 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,low,0.156,GJ 1061 b,Radial Velocity,Mass,La Silla Observatory
+st_rad,low,0.156,GJ 1061 c,Radial Velocity,Mass,La Silla Observatory
+st_rad,low,0.156,GJ 1061 d,Radial Velocity,Mass,La Silla Observatory
+st_rad,low,0.1781,GJ 1151 c,Radial Velocity,Msini,Multiple Facilities
+st_rad,low,0.119,GJ 3323 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.119,GJ 3323 c,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.139,GJ 3512 b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.139,GJ 3512 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,low,0.164,GJ 9066 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,10.06,HD 100655 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,10.3,HD 102272 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,9.82,HD 102329 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,6.3,HD 102329 c,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,8.6,HD 102888 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,11.12,HD 104985 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,5.74,HD 108863 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,11.16,HD 10975 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,20.9,HD 110014 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,8.03,HD 111591 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,65.8,HD 112300 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,9.85,HD 112570 b,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,39.0,HD 112640 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,6.84,HD 11343 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,25.11,HD 113996 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,20.58,HD 11755 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,10.09,HD 11977 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,10.37,HD 120084 b,Radial Velocity,Mass,Okayama Astrophysical Observatory
+st_rad,high,5.39,HD 125136 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,6.47,HD 125390 b,Radial Velocity,Mass,W. M. Keck Observatory
+st_rad,high,11.02,HD 12648 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,38.41,HD 13189 b,Radial Velocity,Msini,Thueringer Landessternwarte Tautenburg
+st_rad,high,11.47,HD 139357 b,Radial Velocity,Mass,Thueringer Landessternwarte Tautenburg
+st_rad,high,12.4,HD 14067 b,Radial Velocity,Mass,Okayama Astrophysical Observatory
+st_rad,high,9.9,HD 145457 b,Radial Velocity,Msini,Subaru Telescope
+st_rad,high,6.930587,HD 145934 b,Radial Velocity,Mass,W. M. Keck Observatory
+st_rad,high,16.2,HD 150010 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,8.56,HD 154391 b,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,50.3,HD 158996 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,10.95,HD 161178 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,9.7,HD 167768 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,21.66,HD 1690 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,13.58,HD 17092 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,13.5,HD 173416 b,Radial Velocity,Msini,Xinglong Station
+st_rad,high,26.6,HD 174205 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,9.2,HD 180314 b,Radial Velocity,Msini,Subaru Telescope
+st_rad,high,88.475,HD 18438 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,32.3,HD 19615 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,6.43,HD 202696 b,Radial Velocity,Mass,W. M. Keck Observatory
+st_rad,high,6.43,HD 202696 c,Radial Velocity,Mass,W. M. Keck Observatory
+st_rad,high,10.5852,HD 203387 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,10.5852,HD 203387 c,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,6.12,HD 206610 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,51.1,HD 208527 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,9.83,HD 216536 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,11.22,HD 219139 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,54.92,HD 220074 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,5.69,HD 22532 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,10.9,HD 233604 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,12.73,HD 238914 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,25.456816,HD 240210 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,71.23,HD 240237 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,40.0,HD 24064 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,13.76,HD 25723 b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,6.48,HD 28678 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,10.9,HD 2952 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,10.22,HD 32518 b,Radial Velocity,Msini,Thueringer Landessternwarte Tautenburg
+st_rad,high,5.39,HD 33844 b,Radial Velocity,Msini,Anglo-Australian Telescope
+st_rad,high,10.86,HD 360 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,38.4,HD 36384 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,8.56,HD 40956 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,7.3,HD 47366 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,7.3,HD 47366 c,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,23.47,HD 47536 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,42.4,HD 4760 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,9.09,HD 5583 b,Radial Velocity,Msini,Roque de los Muchachos Observatory
+st_rad,high,5.43,HD 5608 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,10.64,HD 5891 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,13.2,HD 59686 A b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,27.0,HD 60292 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,8.9,HD 62509 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,5.44,HD 64121 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,21.4,HD 66141 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,86.4,HD 6860 b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,7.72,HD 69123 b,Radial Velocity,Mass,La Silla Observatory
+st_rad,high,8.33,HD 76920 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,11.06,HD 79181 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,11.13,HD 81688 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,83.8,HD 81817 b,Radial Velocity,Mass,Bohyunsan Optical Astronomical Observatory
+st_rad,high,83.8,HD 81817 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,8.8,HD 86950 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,9.0,HD 87816 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,9.0,HD 87816 c,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,10.71,HD 94890 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,10.71,HD 94890 c,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,41.01,HD 95127 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,35.0,HD 96127 b,Radial Velocity,Mass,McDonald Observatory
+st_rad,high,7.43,HD 96992 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,11.21,HD 99283 b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,5.52,HD 99706 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,5.4,HD 99706 c,Radial Velocity,Msini,W. M. Keck Observatory
+st_rad,high,10.305119,HIP 105854 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,11.6,HIP 107773 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,10.275655,HIP 63242 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,8.93,HIP 65891 b,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,8.69,HIP 67537 b,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,5.45,HIP 67851 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,5.45,HIP 67851 c,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,5.77,HIP 74890 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,6.84,HIP 8541 b,Radial Velocity,Mass,Multiple Observatories
+st_rad,high,10.267424,IC 4651 9122 b,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,5.86,KIC 3526061 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,low,0.17,Kepler-42 b,Transit,Mass,Kepler
+st_rad,low,0.17,Kepler-42 c,Transit,Mass,Kepler
+st_rad,low,0.17,Kepler-42 d,Transit,Mass,Kepler
+st_rad,high,6.3,Kepler-91 b,Transit,Mass,Kepler
+st_rad,low,0.1405,LHS 3154 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,low,0.1556,LP 890-9 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_rad,low,0.1556,LP 890-9 c,Transit,Mass,SPECULOOS Southern Observatory
+st_rad,high,21.017414,NGC 2682 Sand 978 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,low,0.151,NY Vir b,Eclipse Timing Variations,Mass,Multiple Observatories
+st_rad,low,0.151,NY Vir c,Eclipse Timing Variations,Msini,Winer Observatory
+st_rad,low,0.141,Proxima Cen b,Radial Velocity,Msini,European Southern Observatory
+st_rad,low,0.141,Proxima Cen d,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.123,SPECULOOS-3 b,Transit,M-R relationship,SPECULOOS Southern Observatory
+st_rad,low,0.13,TOI-2267 d,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_rad,low,0.1192,TRAPPIST-1 b,Transit,Mass,La Silla Observatory
+st_rad,low,0.1192,TRAPPIST-1 c,Transit,Mass,La Silla Observatory
+st_rad,low,0.1192,TRAPPIST-1 d,Transit,Mass,La Silla Observatory
+st_rad,low,0.1192,TRAPPIST-1 e,Transit,Mass,Multiple Observatories
+st_rad,low,0.1192,TRAPPIST-1 f,Transit,Mass,Multiple Observatories
+st_rad,low,0.1192,TRAPPIST-1 g,Transit,Mass,Multiple Observatories
+st_rad,low,0.1192,TRAPPIST-1 h,Transit,Mass,Multiple Observatories
+st_rad,high,9.99,TYC 0434-04538-1 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,6.85,TYC 1422-614-1 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,6.85,TYC 1422-614-1 c,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,5.9,TYC 3318-01333-1 b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,6.26,TYC 3667-1280-1 b,Radial Velocity,Msini,McDonald Observatory
+st_rad,high,16.21,TYC 4282-00605-1 b,Radial Velocity,Msini,Roque de los Muchachos Observatory
+st_rad,low,0.12,Teegarden's Star b,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.12,Teegarden's Star c,Radial Velocity,Msini,Calar Alto Observatory
+st_rad,low,0.12,Teegarden's Star d,Radial Velocity,Msini,Multiple Observatories
+st_rad,low,0.0131,WD 1856+534 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_rad,low,0.091,WISEP J121756.91+162640.2 A b,Imaging,Mass,W. M. Keck Observatory
+st_rad,low,0.157,YZ Cet b,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.157,YZ Cet c,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.157,YZ Cet d,Radial Velocity,Msini,La Silla Observatory
+st_rad,low,0.0123,ZTF J1230-2655 b,Transit,Mass,Zwicky Transient Facility
+st_rad,low,0.0131,ZTF J1828+2308 b,Transit,Mass,Zwicky Transient Facility
+st_rad,high,13.9,alf Ari b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,45.1,alf Tau b,Radial Velocity,Msini,Multiple Observatories
+st_rad,high,47.2,bet Cnc b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,38.3,bet UMi b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,21.0,eps CrB b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,12.35,eps Tau b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,12.38,gam Lib b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,12.38,gam Lib c,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,11.2,gam Psc b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,31.88,gam1 Leo b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,11.79,iot Dra b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,11.79,iot Dra c,Radial Velocity,Msini,La Silla Observatory
+st_rad,high,11.4,mu Leo b,Radial Velocity,Msini,Bohyunsan Optical Astronomical Observatory
+st_rad,high,5.6,mu2 Sco b,Imaging,Mass,Paranal Observatory
+st_rad,high,12.24,nu Oph b,Radial Velocity,Mass,Okayama Astrophysical Observatory
+st_rad,high,12.24,nu Oph c,Radial Velocity,Mass,Okayama Astrophysical Observatory
+st_rad,high,10.99,ome Ser b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,11.87,omi CrB b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,13.84,omi UMa b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,26.8,tau Gem b,Radial Velocity,Msini,Lick Observatory
+st_rad,high,11.22,ups Leo b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_rad,high,10.86,xi Aql b,Radial Velocity,Msini,Okayama Astrophysical Observatory
+st_mass,low,0.17,2M0437 b,Imaging,Mass,Subaru Telescope
+st_mass,low,0.19,2MASS J01033563-5515561 AB b,Imaging,Mass,Paranal Observatory
+st_mass,low,0.108,2MASS J02192210-3925225 b,Imaging,Mass,Cerro Tololo Inter-American Observatory
+st_mass,low,0.046,2MASS J0249-0557 c,Imaging,Mass,Mauna Kea Observatory
+st_mass,low,0.264996,2MASS J03590986+2009361 b,Imaging,Mass,European Space Agency (ESA) Gaia Satellite
+st_mass,low,0.019,2MASS J04414489+2301513 b,Imaging,Mass,Hubble Space Telescope
+st_mass,low,0.188001,2MASS J12073346-3932539 b,Imaging,Mass,Paranal Observatory
+st_mass,low,0.26,55 Cnc B b,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,low,0.26,55 Cnc B c,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,high,3.75,BD+37 3172 b,Radial Velocity,Msini,McDonald Observatory
+st_mass,low,0.162,Barnard b,Radial Velocity,Msini,Paranal Observatory
+st_mass,low,0.162,Barnard c,Radial Velocity,Msini,Gemini Observatory
+st_mass,low,0.162,Barnard d,Radial Velocity,Msini,Gemini Observatory
+st_mass,low,0.162,Barnard e,Radial Velocity,Msini,Gemini Observatory
+st_mass,low,0.161,CD Cet b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.035,CD-35 2722 B b,Radial Velocity,Msini,Paranal Observatory
+st_mass,low,0.021,CFBDSIR J145829+101343 b,Imaging,Mass,W. M. Keck Observatory
+st_mass,low,0.0147,CFHTWIR-Oph 98 b,Imaging,Mass,Hubble Space Telescope
+st_mass,low,0.024,CWISEP J193518.59-154620.3 b,Imaging,Mass,James Webb Space Telescope (JWST)
+st_mass,low,0.075,DENIS-P J082303.1-491201 b,Astrometry,Mass,Paranal Observatory
+st_mass,low,0.221,EPIC 206032309 b,Transit,M-R relationship,K2
+st_mass,low,0.05,FU Tau b,Imaging,Mass,Spitzer Space Telescope
+st_mass,low,0.132,G 192-15 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.132,G 192-15 c,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.118,G 261-6 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.137,G 268-110 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.12,GJ 1002 b,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.12,GJ 1002 c,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.12,GJ 1061 b,Radial Velocity,Mass,La Silla Observatory
+st_mass,low,0.12,GJ 1061 c,Radial Velocity,Mass,La Silla Observatory
+st_mass,low,0.12,GJ 1061 d,Radial Velocity,Mass,La Silla Observatory
+st_mass,low,0.1945,GJ 1132 b,Transit,Mass,Cerro Tololo Inter-American Observatory
+st_mass,low,0.198,GJ 1132 c,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.1639,GJ 1151 c,Radial Velocity,Msini,Multiple Facilities
+st_mass,low,0.182,GJ 1214 b,Transit,Mass,MEarth Project
+st_mass,low,0.178,GJ 1265 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.21,GJ 1289 b,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.164,GJ 3323 b,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.164,GJ 3323 c,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.262,GJ 3378 b,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,low,0.123,GJ 3512 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.123,GJ 3512 c,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.27,GJ 3779 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.1842,GJ 3988 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.18,GJ 4274 b,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,low,0.18,GJ 4274 c,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,low,0.27,GJ 682 b,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.27,GJ 682 c,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.15,GJ 9066 c,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.25,Gl 725 B c,Radial Velocity,Msini,Mauna Kea Observatory
+st_mass,low,0.255,Gliese 12 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,high,3.21,HD 102329 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_mass,high,3.5,HD 142245 b,Radial Velocity,Msini,W. M. Keck Observatory
+st_mass,high,6.73,HD 17092 b,Radial Velocity,Msini,McDonald Observatory
+st_mass,high,8.76,HD 240237 b,Radial Velocity,Msini,McDonald Observatory
+st_mass,high,4.3,HD 81817 b,Radial Velocity,Mass,Bohyunsan Optical Astronomical Observatory
+st_mass,high,4.3,HD 81817 c,Radial Velocity,Msini,Multiple Observatories
+st_mass,high,3.7,HD 95127 b,Radial Velocity,Msini,McDonald Observatory
+st_mass,high,3.75,HIP 79098 AB b,Imaging,Mass,Paranal Observatory
+st_mass,low,0.135,HIP 81208 C b,Imaging,Mass,Paranal Observatory
+st_mass,low,0.2634,K2-25 b,Transit,Mass,K2
+st_mass,low,0.257,K2-28 b,Transit,M-R relationship,K2
+st_mass,low,0.174,K2-315 b,Transit,M-R relationship,K2
+st_mass,low,0.117,K2-320 b,Transit,M-R relationship,K2
+st_mass,low,0.274,K2-325 b,Transit,M-R relationship,K2
+st_mass,low,0.27,K2-332 b,Transit,M-R relationship,K2
+st_mass,low,0.1635,K2-415 b,Transit,Mass,K2
+st_mass,low,0.271365,K2-72 b,Transit,M-R relationship,K2
+st_mass,low,0.271365,K2-72 c,Transit,M-R relationship,K2
+st_mass,low,0.271365,K2-72 d,Transit,M-R relationship,K2
+st_mass,low,0.271365,K2-72 e,Transit,M-R relationship,K2
+st_mass,low,0.258,K2-88 b,Transit,M-R relationship,K2
+st_mass,low,0.087,KMT-2016-BLG-1107L b,Microlensing,Mass,KMTNet
+st_mass,low,0.039,KMT-2016-BLG-1820L b,Microlensing,Mass,KMTNet
+st_mass,low,0.073,KMT-2016-BLG-2142L b,Microlensing,Mass,KMTNet
+st_mass,low,0.064,KMT-2016-BLG-2605L b,Microlensing,Mass,KMTNet
+st_mass,low,0.19,KMT-2017-BLG-0849L b,Microlensing,Mass,KMTNet
+st_mass,low,0.1,KMT-2018-BLG-0087L b,Microlensing,Mass,KMTNet
+st_mass,low,0.087,KMT-2018-BLG-0748L b,Microlensing,Mass,KMTNet
+st_mass,low,0.219,KMT-2018-BLG-1025L b,Microlensing,Mass,KMTNet
+st_mass,low,0.193,KMT-2018-BLG-1743L b,Microlensing,Mass,KMTNet
+st_mass,low,0.094,KMT-2018-BLG-1990L b,Microlensing,Mass,KMTNet
+st_mass,low,0.21,KMT-2019-BLG-0297L b,Microlensing,Mass,KMTNet
+st_mass,low,0.09,KMT-2019-BLG-0371L b,Microlensing,Mass,KMTNet
+st_mass,low,0.25,KMT-2019-BLG-1367L b,Microlensing,Mass,KMTNet
+st_mass,low,0.27,KMT-2021-BLG-0192L b,Microlensing,Mass,KMTNet
+st_mass,low,0.22,KMT-2021-BLG-0712L b,Microlensing,Mass,KMTNet
+st_mass,low,0.14,KMT-2021-BLG-1077L b,Microlensing,Mass,KMTNet
+st_mass,low,0.14,KMT-2021-BLG-1077L c,Microlensing,Mass,KMTNet
+st_mass,low,0.24,KMT-2021-BLG-1253L b,Microlensing,Mass,KMTNet
+st_mass,low,0.08,KMT-2021-BLG-1554L b,Microlensing,Mass,KMTNet
+st_mass,low,0.13,KMT-2021-BLG-1770L b,Microlensing,Mass,KMTNet
+st_mass,low,0.14,KMT-2021-BLG-2294L b,Microlensing,Mass,KMTNet
+st_mass,low,0.2,KMT-2021-BLG-2478L b,Microlensing,Mass,KMTNet
+st_mass,low,0.2,KMT-2021-BLG-2609L b,Microlensing,Mass,KMTNet
+st_mass,low,0.18,KMT-2022-BLG-1013L b,Microlensing,Mass,KMTNet
+st_mass,low,0.2,KMT-2022-BLG-2286L b,Microlensing,Mass,KMTNet
+st_mass,low,0.23,KMT-2023-BLG-0084L b,Microlensing,Mass,KMTNet
+st_mass,low,0.22,KMT-2023-BLG-0830L b,Microlensing,Mass,KMTNet
+st_mass,low,0.09,KMT-2023-BLG-1118L b,Microlensing,Mass,KMTNet
+st_mass,low,0.17,KMT-2023-BLG-1454L b,Microlensing,Mass,KMTNet
+st_mass,low,0.17,KMT-2023-BLG-1642L b,Microlensing,Mass,KMTNet
+st_mass,low,0.11,KMT-2023-BLG-1743L b,Microlensing,Mass,KMTNet
+st_mass,low,0.103,KMT-2024-BLG-0176L b,Microlensing,Mass,KMTNet
+st_mass,low,0.09,KMT-2024-BLG-0404L b,Microlensing,Mass,KMTNet
+st_mass,low,0.09,KMT-2024-BLG-0404L c,Microlensing,Mass,KMTNet
+st_mass,low,0.055,KMT-2024-BLG-1005L b,Microlensing,Mass,KMTNet
+st_mass,low,0.069,KMT-2024-BLG-1044L b,Microlensing,Mass,KMTNet
+st_mass,low,0.12,KMT-2024-BLG-2005L b,Microlensing,Mass,KMTNet
+st_mass,low,0.069,KMT-2024-BLG-2242L b,Microlensing,Mass,KMTNet
+st_mass,low,0.22,KMT-2025-BLG-0481L b,Microlensing,Mass,KMTNet
+st_mass,low,0.1,KMT-2025-BLG-0975L b,Microlensing,Mass,KMTNet
+st_mass,low,0.26,KMT-2025-BLG-1616L b,Microlensing,Mass,KMTNet
+st_mass,low,0.26,KOINTREAU-1 b,Imaging,Mass,W. M. Keck Observatory
+st_mass,low,0.24,Kepler-1646 b,Transit,M-R relationship,Kepler
+st_mass,low,0.1977,Kepler-1649 b,Transit,M-R relationship,Kepler
+st_mass,low,0.1977,Kepler-1649 c,Transit,M-R relationship,Kepler
+st_mass,low,0.13,Kepler-42 b,Transit,Mass,Kepler
+st_mass,low,0.13,Kepler-42 c,Transit,Mass,Kepler
+st_mass,low,0.13,Kepler-42 d,Transit,Mass,Kepler
+st_mass,low,0.18,Kepler-445 b,Transit,M-R relationship,Kepler
+st_mass,low,0.18,Kepler-445 c,Transit,M-R relationship,Kepler
+st_mass,low,0.18,Kepler-445 d,Transit,M-R relationship,Kepler
+st_mass,low,0.22,Kepler-446 b,Transit,M-R relationship,Kepler
+st_mass,low,0.22,Kepler-446 c,Transit,M-R relationship,Kepler
+st_mass,low,0.22,Kepler-446 d,Transit,M-R relationship,Kepler
+st_mass,low,0.21,L 363-38 b,Radial Velocity,Msini,Paranal Observatory
+st_mass,low,0.1844,LHS 1140 b,Transit,Mass,MEarth Project
+st_mass,low,0.1844,LHS 1140 c,Transit,Mass,Multiple Observatories
+st_mass,low,0.2301,LHS 1478 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.1118,LHS 3154 b,Radial Velocity,Msini,McDonald Observatory
+st_mass,low,0.151,LHS 3844 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.262,LHS 475 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.22,LP 261-75 b,Imaging,Mass,Apache Point Observatory
+st_mass,low,0.139,LP 791-18 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.139,LP 791-18 c,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.139,LP 791-18 d,Transit,Mass,Spitzer Space Telescope
+st_mass,low,0.118,LP 890-9 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.118,LP 890-9 c,Transit,Mass,SPECULOOS Southern Observatory
+st_mass,low,0.257,LTT 1445 A b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.257,LTT 1445 A c,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.0338,Luhman 16 b,Imaging,Mass,Multiple Observatories
+st_mass,low,0.21,MOA-2008-BLG-310L b,Microlensing,Mass,MOA
+st_mass,low,0.19,MOA-2009-BLG-387L b,Microlensing,Mass,MOA
+st_mass,low,0.16,MOA-2010-BLG-073L b,Microlensing,Mass,MOA
+st_mass,low,0.11,MOA-2010-BLG-328L b,Microlensing,Mass,MOA
+st_mass,low,0.18,MOA-2010-BLG-353L b,Microlensing,Mass,MOA
+st_mass,low,0.11,MOA-2011-BLG-262L b,Microlensing,Mass,MOA
+st_mass,low,0.15,MOA-2011-BLG-291L b,Microlensing,Mass,MOA
+st_mass,low,0.1,MOA-2012-BLG-505L b,Microlensing,Mass,MOA
+st_mass,low,0.024,MOA-2013-BLG-605L b,Microlensing,Mass,MOA
+st_mass,low,0.0094,MOA-2015-BLG-337L b,Microlensing,Mass,MOA
+st_mass,low,0.15,MOA-2016-BLG-319L b,Microlensing,Mass,MOA
+st_mass,low,0.23,MOA-2020-BLG-135L b,Microlensing,Mass,MOA
+st_mass,low,0.18,MOA-2022-BLG-249L b,Microlensing,Mass,MOA
+st_mass,low,0.03,MOA-bin-29 b,Microlensing,Mass,MOA
+st_mass,low,0.22,OGLE-2005-BLG-390L b,Microlensing,Mass,OGLE
+st_mass,low,0.26,OGLE-2011-BLG-0251L b,Microlensing,Mass,OGLE
+st_mass,low,0.211,OGLE-2011-BLG-0265L b,Microlensing,Mass,OGLE
+st_mass,low,0.022,OGLE-2012-BLG-0358L b,Microlensing,Mass,OGLE
+st_mass,low,0.096,OGLE-2013-BLG-0102L b,Microlensing,Mass,OGLE
+st_mass,low,0.1127,OGLE-2013-BLG-0341L B b,Microlensing,Mass,OGLE
+st_mass,low,0.1,OGLE-2015-BLG-0051L b,Microlensing,Mass,OGLE
+st_mass,low,0.17,OGLE-2015-BLG-1609L b,Microlensing,Mass,OGLE
+st_mass,low,0.077,OGLE-2015-BLG-1771L b,Microlensing,Mass,OGLE
+st_mass,low,0.072,OGLE-2016-BLG-0261L b,Microlensing,Mass,OGLE
+st_mass,low,0.13,OGLE-2016-BLG-0263L b,Microlensing,Mass,OGLE
+st_mass,low,0.078,OGLE-2016-BLG-1195L b,Microlensing,Mass,OGLE
+st_mass,low,0.1,OGLE-2016-BLG-1227L b,Microlensing,Mass,OGLE
+st_mass,low,0.015,OGLE-2016-BLG-1266L b,Microlensing,Mass,OGLE
+st_mass,low,0.248,OGLE-2017-BLG-0373L b,Microlensing,Mass,OGLE
+st_mass,low,0.2,OGLE-2017-BLG-0482L b,Microlensing,Mass,OGLE
+st_mass,low,0.211,OGLE-2017-BLG-1140L b,Microlensing,Mass,OGLE
+st_mass,low,0.234,OGLE-2017-BLG-1434L b,Microlensing,Mass,OGLE
+st_mass,low,0.045,OGLE-2017-BLG-1522L b,Microlensing,Mass,OGLE
+st_mass,low,0.1,OGLE-2018-BLG-0383L b,Microlensing,Mass,OGLE
+st_mass,low,0.195,OGLE-2018-BLG-0532L b,Microlensing,Mass,OGLE
+st_mass,low,0.25,OGLE-2018-BLG-0567L b,Microlensing,Mass,OGLE
+st_mass,low,0.231,OGLE-2018-BLG-0596L b,Microlensing,Mass,OGLE
+st_mass,low,0.12,OGLE-2018-BLG-0677L b,Microlensing,Mass,OGLE
+st_mass,low,0.093,OGLE-2018-BLG-0799L b,Microlensing,Mass,OGLE
+st_mass,low,0.18,OGLE-2018-BLG-1011L b,Microlensing,Mass,OGLE
+st_mass,low,0.18,OGLE-2018-BLG-1011L c,Microlensing,Mass,OGLE
+st_mass,low,0.16,OGLE-2018-BLG-1212L b,Microlensing,Mass,KMTNet
+st_mass,low,0.092,OGLE-2018-BLG-1647L b,Microlensing,Mass,KMTNet
+st_mass,low,0.27,OGLE-2019-BLG-0304L b,Microlensing,Mass,OGLE
+st_mass,low,0.016,Oph 11 b,Imaging,Mass,Gemini Observatory
+st_mass,low,0.1221,Proxima Cen b,Radial Velocity,Msini,European Southern Observatory
+st_mass,low,0.1221,Proxima Cen d,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.168,Ross 128 b,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.1774,Ross 508 b,Radial Velocity,Msini,Subaru Telescope
+st_mass,low,0.1009,SPECULOOS-3 b,Transit,M-R relationship,SPECULOOS Southern Observatory
+st_mass,low,0.1667,TOI-1080 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.17,TOI-1227 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.249,TOI-1452 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.1798,TOI-1680 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.255,TOI-1696 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.231,TOI-2096 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.231,TOI-2096 c,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.211,TOI-2120 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.23,TOI-2266 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.171,TOI-2267 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.171,TOI-2267 c,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.0989,TOI-2267 d,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.179,TOI-237 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.1698,TOI-237 c,Transit,M-R relationship,La Silla Observatory
+st_mass,low,0.166,TOI-2406 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.25,TOI-2445 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.16,TOI-277 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.2109,TOI-4184 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.2619,TOI-4552 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.1881,TOI-4616 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.159,TOI-540 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.2653,TOI-5713 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.19,TOI-5716 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.2101,TOI-6002 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.23,TOI-6008 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.254,TOI-6086 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.269,TOI-6324 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.23,TOI-6478 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.223,TOI-6716 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.207,TOI-6894 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.225,TOI-715 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.19,TOI-7166 b,Transit,M-R relationship,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.22,TOI-771 b,Transit,Mass,Transiting Exoplanet Survey Satellite (TESS)
+st_mass,low,0.22,TOI-771 c,Radial Velocity,Msini,Paranal Observatory
+st_mass,low,0.0898,TRAPPIST-1 b,Transit,Mass,La Silla Observatory
+st_mass,low,0.0898,TRAPPIST-1 c,Transit,Mass,La Silla Observatory
+st_mass,low,0.0898,TRAPPIST-1 d,Transit,Mass,La Silla Observatory
+st_mass,low,0.0898,TRAPPIST-1 e,Transit,Mass,Multiple Observatories
+st_mass,low,0.0898,TRAPPIST-1 f,Transit,Mass,Multiple Observatories
+st_mass,low,0.0898,TRAPPIST-1 g,Transit,Mass,Multiple Observatories
+st_mass,low,0.0898,TRAPPIST-1 h,Transit,Mass,Multiple Observatories
+st_mass,low,0.097,Teegarden's Star b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.097,Teegarden's Star c,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.097,Teegarden's Star d,Radial Velocity,Msini,Multiple Observatories
+st_mass,low,0.06,USco CTIO 108 b,Imaging,Mass,Teide Observatory
+st_mass,low,0.07,VHS J125601.92-125723.9 b,Imaging,Mass,Paranal Observatory
+st_mass,low,0.0131,WISE J033605.05-014350.4 b,Imaging,Mass,James Webb Space Telescope (JWST)
+st_mass,low,0.029,WISEP J121756.91+162640.2 A b,Imaging,Mass,W. M. Keck Observatory
+st_mass,low,0.167,Wolf 1069 b,Radial Velocity,Msini,Calar Alto Observatory
+st_mass,low,0.142,YZ Cet b,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.142,YZ Cet c,Radial Velocity,Msini,La Silla Observatory
+st_mass,low,0.142,YZ Cet d,Radial Velocity,Msini,La Silla Observatory
+st_mass,high,5.5,b Cen AB b,Imaging,Mass,Paranal Observatory
+st_mass,high,9.1,mu2 Sco b,Imaging,Mass,Paranal Observatory
