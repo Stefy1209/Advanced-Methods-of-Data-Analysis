@@ -99,7 +99,7 @@
 %        classifier predicts some defects | yes |      c      |      d     |
 %                                         +-----+-------------+------------+
 %
-%        accuracy                   = acc          = (a+d)/(a+b+c+d
+%        accuracy                   = acc          = (a+d)/(a+b+c+d)
 %        probability of detection   = pd  = recall = d/(b+d)
 %        probability of false alarm = pf           = c/(a+c)
 %        precision                  = prec         = d/(c+d)

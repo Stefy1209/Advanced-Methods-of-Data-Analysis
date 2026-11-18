@@ -1,0 +1,11 @@
+variant,c,cluster,size,rows of repeated vectors,share repeated,top-10 vectors here (rank in 4f),mean max u of repeated rows
+log1p_zscore,2,0,1419,1020,0.719,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",0.923
+log1p_zscore,2,1,677,69,0.102,[],0.719
+log1p_zscore,3,0,1007,856,0.85,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",0.911
+log1p_zscore,3,1,737,219,0.297,[],0.711
+log1p_zscore,3,2,352,14,0.04,[],0.76
+log1p_minmax,2,0,1331,987,0.742,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",0.928
+log1p_minmax,2,1,765,102,0.133,[],0.707
+log1p_minmax,3,0,982,848,0.864,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",0.908
+log1p_minmax,3,1,734,227,0.309,[],0.746
+log1p_minmax,3,2,380,14,0.037,[],0.8

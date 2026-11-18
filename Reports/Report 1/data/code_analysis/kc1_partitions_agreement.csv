@@ -1,0 +1,57 @@
+version,fset,c,comparison,ARI
+DS1,measured13,2,zscore vs minmax (m=1.5),0.883
+DS1,measured13,2,zscore vs minmax (m=2.0),0.838
+DS1,measured13,2,m=1.5 vs m=2 (log1p_zscore),0.944
+DS1,measured13,2,m=1.5 vs m=2 (log1p_minmax),0.897
+DS1,measured13,3,zscore vs minmax (m=1.5),0.934
+DS1,measured13,3,zscore vs minmax (m=2.0),0.927
+DS1,measured13,3,m=1.5 vs m=2 (log1p_zscore),0.978
+DS1,measured13,3,m=1.5 vs m=2 (log1p_minmax),0.968
+DS1,all21,2,zscore vs minmax (m=1.5),0.88
+DS1,all21,2,zscore vs minmax (m=2.0),0.901
+DS1,all21,2,m=1.5 vs m=2 (log1p_zscore),0.968
+DS1,all21,2,m=1.5 vs m=2 (log1p_minmax),0.99
+DS1,all21,3,zscore vs minmax (m=1.5),0.899
+DS1,all21,3,zscore vs minmax (m=2.0),0.933
+DS1,all21,3,m=1.5 vs m=2 (log1p_zscore),0.938
+DS1,all21,3,m=1.5 vs m=2 (log1p_minmax),0.973
+DS1,measured13 vs all21,2,"m=2, log1p_zscore",0.713
+DS1,measured13 vs all21,2,"m=2, log1p_minmax",0.772
+DS1,measured13 vs all21,3,"m=2, log1p_zscore",0.863
+DS1,measured13 vs all21,3,"m=2, log1p_minmax",0.863
+DS1,measured13,2 vs 3,"c=2 vs c=3 (m=2, log1p_zscore)",0.413
+DS1,measured13,2 vs 3,"c=2 vs c=3 (m=2, log1p_minmax)",0.442
+DS1,all21,2 vs 3,"c=2 vs c=3 (m=2, log1p_zscore)",0.464
+DS1,all21,2 vs 3,"c=2 vs c=3 (m=2, log1p_minmax)",0.475
+DS2,measured13,2,zscore vs minmax (m=1.5),0.952
+DS2,measured13,2,zscore vs minmax (m=2.0),0.962
+DS2,measured13,2,m=1.5 vs m=2 (log1p_zscore),0.973
+DS2,measured13,2,m=1.5 vs m=2 (log1p_minmax),0.962
+DS2,measured13,3,zscore vs minmax (m=1.5),0.871
+DS2,measured13,3,zscore vs minmax (m=2.0),0.903
+DS2,measured13,3,m=1.5 vs m=2 (log1p_zscore),0.937
+DS2,measured13,3,m=1.5 vs m=2 (log1p_minmax),0.905
+DS2,all21,2,zscore vs minmax (m=1.5),0.949
+DS2,all21,2,zscore vs minmax (m=2.0),0.959
+DS2,all21,2,m=1.5 vs m=2 (log1p_zscore),0.966
+DS2,all21,2,m=1.5 vs m=2 (log1p_minmax),0.962
+DS2,all21,3,zscore vs minmax (m=1.5),0.962
+DS2,all21,3,zscore vs minmax (m=2.0),0.946
+DS2,all21,3,m=1.5 vs m=2 (log1p_zscore),0.93
+DS2,all21,3,m=1.5 vs m=2 (log1p_minmax),0.935
+DS2,measured13 vs all21,2,"m=2, log1p_zscore",0.798
+DS2,measured13 vs all21,2,"m=2, log1p_minmax",0.801
+DS2,measured13 vs all21,3,"m=2, log1p_zscore",0.73
+DS2,measured13 vs all21,3,"m=2, log1p_minmax",0.699
+DS2,measured13,2 vs 3,"c=2 vs c=3 (m=2, log1p_zscore)",0.349
+DS2,measured13,2 vs 3,"c=2 vs c=3 (m=2, log1p_minmax)",0.355
+DS2,all21,2 vs 3,"c=2 vs c=3 (m=2, log1p_zscore)",0.322
+DS2,all21,2 vs 3,"c=2 vs c=3 (m=2, log1p_minmax)",0.332
+DS1 vs DS2,measured13,2,"on the 1163 shared modules (m=2, log1p_zscore)",0.508
+DS1 vs DS2,measured13,3,"on the 1163 shared modules (m=2, log1p_zscore)",0.463
+DS1 vs DS2,measured13,2,"on the 1163 shared modules (m=2, log1p_minmax)",0.343
+DS1 vs DS2,measured13,3,"on the 1163 shared modules (m=2, log1p_minmax)",0.364
+DS1 vs DS2,all21,2,"on the 1163 shared modules (m=2, log1p_zscore)",0.381
+DS1 vs DS2,all21,3,"on the 1163 shared modules (m=2, log1p_zscore)",0.503
+DS1 vs DS2,all21,2,"on the 1163 shared modules (m=2, log1p_minmax)",0.267
+DS1 vs DS2,all21,3,"on the 1163 shared modules (m=2, log1p_minmax)",0.427
