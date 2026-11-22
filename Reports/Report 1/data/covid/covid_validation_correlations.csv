@@ -1,0 +1,49 @@
+variant,FCM summary,external,rho,p,n
+reference,severity,spring excess_per_million,0.5997285067873303,0.0,51
+reference,severity,spring mean_p_score,0.5996380090497737,0.0,51
+reference,severity,reported deaths per million (spring),0.6963705913214089,0.0,55
+reference,severity,tests per 1000 by 24 Jun,0.3795546558704453,0.0165,39
+reference,severity,mean positivity %,0.21431958274063534,0.2039,37
+reference,severity,mean stringency,-0.20049337033610853,0.1814,46
+reference,severity,autumn excess_per_million,-0.3115837104072398,0.0259,51
+reference,severity,reported cases per 100k (1 Oct-14 Dec),0.056421356421356435,0.6864,55
+reference,% stabilisation,spring excess_per_million,-0.5407717862819074,0.0,51
+reference,% stabilisation,spring mean_p_score,-0.5531289217682187,0.0,51
+reference,% stabilisation,reported deaths per million (spring),-0.6783710279594313,0.0,55
+reference,% stabilisation,tests per 1000 by 24 Jun,-0.28717536270879773,0.0757,39
+reference,% stabilisation,mean positivity %,-0.13209225694507185,0.429,37
+reference,% stabilisation,mean stringency,0.16936605237712388,0.265,46
+reference,% stabilisation,autumn excess_per_million,0.33789749599015984,0.0151,51
+reference,% stabilisation,reported cases per 100k (1 Oct-14 Dec),-0.12438430766750629,0.3618,55
+reference,entropy,spring excess_per_million,0.6201809954751131,0.0,51
+reference,entropy,spring mean_p_score,0.6146606334841628,0.0,51
+reference,entropy,reported deaths per million (spring),0.6983909391151091,0.0,55
+reference,entropy,tests per 1000 by 24 Jun,0.3530364372469636,0.027,39
+reference,entropy,mean positivity %,0.18776671408250356,0.2678,37
+reference,entropy,mean stringency,-0.1949429540548874,0.1932,46
+reference,entropy,autumn excess_per_million,-0.24696832579185518,0.0825,51
+reference,entropy,reported cases per 100k (1 Oct-14 Dec),0.04718614718614719,0.734,55
+clean,severity,spring excess_per_million,0.6036890645586297,0.0,45
+clean,severity,spring mean_p_score,0.6085638998682477,0.0,45
+clean,severity,reported deaths per million (spring),0.9506629663891457,0.0,46
+clean,severity,tests per 1000 by 24 Jun,0.16314695262063683,0.3315,38
+clean,severity,mean positivity %,0.4146718146718147,0.0125,36
+clean,severity,mean stringency,-0.006887610404343247,0.9646,42
+clean,severity,autumn excess_per_million,-0.1569169960474308,0.2967,45
+clean,severity,reported cases per 100k (1 Oct-14 Dec),0.10107924761023743,0.4971,46
+clean,% stabilisation,spring excess_per_million,-0.3438416197572126,0.0198,45
+clean,% stabilisation,spring mean_p_score,-0.35826992301968236,0.0159,45
+clean,% stabilisation,reported deaths per million (spring),-0.7718259508159494,0.0,46
+clean,% stabilisation,tests per 1000 by 24 Jun,0.13164806382176955,0.4334,38
+clean,% stabilisation,mean positivity %,-0.27468142845643495,0.1025,36
+clean,% stabilisation,mean stringency,-0.048462255716871384,0.7575,42
+clean,% stabilisation,autumn excess_per_million,-0.0370260567740091,0.8026,45
+clean,% stabilisation,reported cases per 100k (1 Oct-14 Dec),-0.1708452839827537,0.2538,46
+clean,entropy,spring excess_per_million,0.15915678524374177,0.2965,45
+clean,entropy,spring mean_p_score,0.12569169960474308,0.412,45
+clean,entropy,reported deaths per million (spring),0.09010175763182238,0.5461,46
+clean,entropy,tests per 1000 by 24 Jun,0.3913994966626545,0.0136,38
+clean,entropy,mean positivity %,0.06383526383526383,0.7129,36
+clean,entropy,mean stringency,-0.09472490073737948,0.5487,42
+clean,entropy,autumn excess_per_million,0.06218708827404479,0.6777,45
+clean,entropy,reported cases per 100k (1 Oct-14 Dec),-0.11921060746222632,0.4293,46

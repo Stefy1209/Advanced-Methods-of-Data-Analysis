@@ -1,0 +1,19 @@
+check,value
+rows,61900
+columns,12
+countries/territories,214
+first day,2019-12-31
+last day,2020-12-14
+"duplicate (country, day)",0
+missing popData2019,123
+missing 14-day rate,2879
+missing days inside country ranges,476
+cases < 0,18
+deaths < 0,8
+deaths > cases,300
+cases == 0 and deaths > 0,244
+cumulative cases < 0,0
+cumulative deaths < 0,0
+cases > population,0
+14-day rate mismatches (rate14_calendar),1114
+14-day rate mismatches (rate14_rows),585
