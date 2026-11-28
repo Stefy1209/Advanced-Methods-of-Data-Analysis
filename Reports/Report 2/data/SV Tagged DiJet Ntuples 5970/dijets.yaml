@@ -1,0 +1,70 @@
+inputs:
+  - >-
+    /Event/BhadronCompleteEvent/Phys/TaggedJetsJetPairLineExclusiveDiJet/Particles
+descriptorTemplate: ${H_10}H_10 -> ${CELLjet}CELLjet ${CELLjet_0}CELLjet
+tools:
+  - TupleToolKinematic:
+      ExtraName: ''
+      Verbose: false
+      MaxPV: 100
+      Transporter: ParticleTransporter:PUBLIC
+  - TupleToolPid:
+      ExtraName: ''
+      Verbose: false
+      MaxPV: 100
+  - TupleToolANNPID:
+      ExtraName: ''
+      Verbose: false
+      MaxPV: 100
+      ANNPIDTunes:
+        - MC12TuneV2
+        - MC12TuneV3
+        - MC12TuneV4
+        - MC15TuneV1
+      PIDTypes:
+        - Electron
+        - Muon
+        - Pion
+        - Kaon
+        - Proton
+        - Ghost
+  - TupleToolGeometry:
+      ExtraName: ''
+      Verbose: false
+      MaxPV: 100
+      RefitPVs: false
+      PVReFitter: LoKi::PVReFitter:PUBLIC
+      FillMultiPV: false
+  - TupleToolEventInfo:
+      ExtraName: ''
+      Verbose: false
+      MaxPV: 100
+branches:
+  H_10:
+    particle: H_10
+    tools: []
+  CELLjet:
+    particle: CELLjet
+    tools: []
+  CELLjet_0:
+    particle: CELLjet
+    tools: []
+groups:
+  CELLjet,CELLjet_0:
+    particles:
+      - CELLjet
+      - CELLjet
+    tools:
+      - TupleToolJets:
+          ExtraName: ''
+          Verbose: false
+          MaxPV: 100
+          withJetConstituents: true
+      - TupleToolJetTag:
+          ExtraName: ''
+          Verbose: false
+          MaxPV: 100
+          tagToolName: LoKi::BDTTag
+          tagToolLabel: BDTTag
+          VerboseTag: false
+name: DecayTreeTuple/dijets
